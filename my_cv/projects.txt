@@ -1,0 +1,11 @@
+Socialcapp Landing
+
+socialcaplanding.jpeg
+
+Desarrollo de la landing page de SocialCap, una plataforma enfocada en la validación de credenciales mediante consenso comunitario. Implementé una interfaz moderna, responsive y orientada a conversión para comunicar sus principales funcionalidades: votación anónima, selección aleatoria de electores, auditoría interna y personalización no-code de credenciales. Enfoque en rendimiento, experiencia de usuario y claridad del producto.
+
+Wave
+
+wave.jpeg
+
+Desarrollo de una aplicación web tipo microblogging inspirada en Twitter, con sistema de publicaciones, interacción entre usuarios y actualización dinámica de contenido. Proyecto enfocado en arquitectura frontend, manejo de estado y experiencia de usuario.
