@@ -32,9 +32,9 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
+  github: "https://github.com/fabri2605",
   linkedin: "https://www.linkedin.com/in/fabricio-di-paolo/", // Update with your real LinkedIn URL
   gmail: "fabridp77@gmail.com",
-  // github: "https://github.com/yourUsername", // Uncomment and set your GitHub URL
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
 };
